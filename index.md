@@ -2,6 +2,8 @@
 
 Welcome! This site features open-source tools and packages developed to support both academic research and industry applications.
 
+![Mixed Data Project](https://raw.githubusercontent.com/jonathanatuscpsu/OpenSourcePackages/main/mixed-data.png)
+
 ## Available Projects
 
 - **Package 1** — A proposed open-source Python package associated with the paper *Surrogate method for partial association between mixed data with application to well-being survey analysis*, *Annals of Applied Statistics*, 2024, 18(3), 2254–2276.  
