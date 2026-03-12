@@ -1,13 +1,16 @@
-# Welcome to OpenSourcePackages
+title: "Welcome to OpenSourcePackages"
+theme: jekyll-theme-minimal
+description: >
+  A collection of open-source packages and resources for industry and academic use.
+logo: "https://raw.githubusercontent.com/jonathanatuscpsu/Business-Programming/main/Python_66.png"
+show_downloads: false
 
-Welcome! This site hosts open-source tools and packages developed for both industry and academic use.
+github:
+  is_project_page: true
 
-## Available Packages
+color_mode:
+  default: auto
+  toggle: true
 
-- Package 1 — description
-- Package 2 — description
-- Package 3 — description
-
-## About
-
-These tools are designed to support data analytics, statistical modeling, and practical applications in business and research.
+sass:
+  style: compressed
