@@ -7,9 +7,5 @@ show_downloads: false
 github:
   is_project_page: true
 
-color_mode:
-  default: auto
-  toggle: true
-
 sass:
   style: compressed
