@@ -4,6 +4,26 @@ Welcome! This site features open-source tools and packages developed to support 
 
 ![Mixed Data Project](https://raw.githubusercontent.com/jonathanatuscpsu/OpenSourcePackages/main/mixed-data.png)
 
+## Why These Projects Matter
+
+Many real business datasets are **messy, high-dimensional, and mixed in type**. They may include numerical, categorical, binary, ordinal, longitudinal, or functional data all at once. Traditional tools often struggle to handle this complexity well.
+
+The goal of these open-source projects is to build practical tools that help analysts and decision-makers:
+
+- uncover hidden relationships in complex data,
+- make more informed and evidence-based decisions,
+- improve prediction and insight generation,
+- and translate advanced statistical methods into usable analytics workflows.
+
+For undergraduate and gradudate students, these projects also provide an opportunity to gain experience in:
+
+- open-source software development,
+- Python package design,
+- statistical computing,
+- data visualization,
+- reproducible research,
+- and real-world problem solving at the intersection of **business and data science**.
+
 ## Available Projects
 
 - **Open-Source Package 1** — A proposed open-source Python package associated with the paper *Surrogate method for partial association between mixed data with application to well-being survey analysis*, *Annals of Applied Statistics*, 2024, 18(3), 2254–2276.  
