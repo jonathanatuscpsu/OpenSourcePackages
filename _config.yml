@@ -1,16 +1,13 @@
-title: "Welcome to Business Programming (MGT 3745)!"
-theme: jekyll-theme-minimal
-description: >
-  Life is short (You need Python) - Bruce Eckel
-logo: "https://raw.githubusercontent.com/jonathanatuscpsu/Business-Programming/main/Python_66.png"
-show_downloads: false
+# Welcome to OpenSourcePackages
 
-github:
-  is_project_page: false
+Welcome! This site hosts open-source tools and packages developed for both industry and academic use.
 
-color_mode:
-  default: auto   # auto | light | dark
-  toggle: true
+## Available Packages
 
-sass:
-  style: compressed
+- Package 1 — description
+- Package 2 — description
+- Package 3 — description
+
+## About
+
+These tools are designed to support data analytics, statistical modeling, and practical applications in business and research.
