@@ -1,16 +1,20 @@
 # Welcome to OpenSourcePackages
 
-Welcome! This site hosts open-source tools and packages developed for both academic and industry applications.
+Welcome! This site hosts open-source tools and packages developed for both academic research and industry applications.
 
 ## Available Packages
 
-- **Package 1** — A package developed in collaboration with Shaobo Li, Ivy Liu, Philip S. Morrison, and Dungang Liu.  
-  **Related paper:** *Surrogate method for partial association between mixed data with application to well-being survey analysis*, *Annals of Applied Statistics*, 18(3), 2254–2276.
+- **Package 1** — A Python package proposed for the paper *Surrogate method for partial association between mixed data with application to well-being survey analysis*, *Annals of Applied Statistics*, 2024, 18(3), 2254–2276.  
+  **Paper:** [Surrogate method for partial association between mixed data with application to well-being survey analysis](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-3/Surrogate-method-for-partial-association-between-mixed-data-with-application/10.1214/24-AOAS1879.short)  
+  This work was developed in collaboration with Shaobo Li, Ivy Liu, Philip S. Morrison, and Dungang Liu.  
+  **Existing implementation:** R
 
-- **Package 2** — A MATLAB implementation of the Adaptive Functional-on-Scalar LASSO (AFSL) for variable selection in high-dimensional function-on-scalar regression, where the responses are functional and the predictors are scalar.  
-  **Code:** https://mreimherr.github.io/codes.html  
-  **Related paper:** with Matthew Reimherr, *High-dimensional adaptive function-on-scalar regression*, *Econometrics and Statistics*, 1, 167–183.  
-  **Links:** [Paper](https://doi.org/10.1016/j.ecosta.2016.08.001) | [Video](https://www.birs.ca/events/2015/5-day-workshops/15w5096/videos/watch/201507021513-Reimherr.html)
+- **Package 2** — A Python package proposed for the paper *High-dimensional adaptive function-on-scalar regression*, *Econometrics and Statistics*, 1, 167–183.  
+  This work was developed in collaboration with Matthew Reimherr.  
+  **Paper:** [High-dimensional adaptive function-on-scalar regression](https://doi.org/10.1016/j.ecosta.2016.08.001)  
+  **Video:** [Presentation video](https://www.birs.ca/events/2015/5-day-workshops/15w5096/videos/watch/201507021513-Reimherr.html)  
+  **Related page:** [Matthew Reimherr’s code page](https://mreimherr.github.io/codes.html)  
+  **Existing implementation:** A MATLAB implementation of the Adaptive Functional-on-Scalar LASSO (AFSL) for variable selection in high-dimensional function-on-scalar regression, where the responses are functional and the predictors are scalar.
 
 ## About
 
