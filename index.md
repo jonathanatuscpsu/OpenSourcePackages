@@ -4,6 +4,13 @@ Welcome! This site features open-source tools and packages developed to support 
 
 ![Mixed Data Project](https://raw.githubusercontent.com/jonathanatuscpsu/OpenSourcePackages/main/mixed-data.png)
 
+## Contact Information
+
+- **Principal Investigator:** [Zhaohu (Jonathan) Fan, Ph.D.](https://www.scheller.gatech.edu/directory/faculty/fan/index.html)
+- **Office:** Scheller College of Business, Room 4144
+- **Email:** jonathan.fan@scheller.gatech.edu
+
+  
 ## Why These Projects Matter
 
 Many real-world business datasets are **messy, high-dimensional, and heterogeneous**. They often contain a mix of numerical, categorical, binary, ordinal, longitudinal, and functional data. Traditional analytical tools often struggle to handle this level of complexity effectively.
