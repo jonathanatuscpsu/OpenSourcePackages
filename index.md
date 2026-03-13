@@ -9,7 +9,6 @@ Welcome! This site features open-source tools and packages developed to support 
 - **Principal Investigator:** [Zhaohu (Jonathan) Fan, Ph.D.](https://www.scheller.gatech.edu/directory/faculty/fan/index.html)
 - **Office:** Scheller College of Business, Room 4144
 - **Email:** jonathan.fan@scheller.gatech.edu
-
   
 ## Why These Projects Matter
 
