@@ -2,7 +2,7 @@
 
 Welcome! This site showcases open-source projects that apply data, analytics, and programming to real-world problems in business, research, and industry.
 
-If you are an undergraduate student/graduate students interested in **business analytics, data science, Python, statistics, or open-source development**, these projects are a great way to gain hands-on experience while working on meaningful problems.
+If you are an undergraduate or graduate student interested in **business analytics, data science, Python, statistics, or open-source development**, these projects are a great way to gain hands-on experience while working on meaningful problems.
 
 ![Mixed Data Project](https://raw.githubusercontent.com/jonathanatuscpsu/OpenSourcePackages/main/mixed-data.png)
 
@@ -54,7 +54,7 @@ You do not need to know everything before getting started. Curiosity, willingnes
 
 ## Get Involved
 
-If you are an undergraduate student who wants to explore how analytics can be used to solve real problems, I would be glad to hear from you. These projects can be a great fit for students who want to strengthen their skills, contribute to open-source work, and gain hands-on experience beyond the classroom.
+If you are an undergraduate student or graduate student who wants to explore how analytics can be used to solve real problems, I would be glad to hear from you. These projects can be a great fit for students who want to strengthen their skills, contribute to open-source work, and gain hands-on experience beyond the classroom.
 
 ## About
 
