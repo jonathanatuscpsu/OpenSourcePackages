@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #111;
+    color: #eee;
+  }
+
+  a {
+    color: #8ab4f8;
+  }
+
+  .wrapper {
+    background-color: #111;
+  }
+}
