@@ -1,7 +1,9 @@
-title: "Welcome to OpenSourcePackages"
+title: "Business Analytics in Action"
 theme: jekyll-theme-minimal
 description: >
-  A collection of open-source packages and resources for industry and academic use.
+  Open-source projects, tools, and learning resources that apply business analytics,
+  data science, statistics, and programming to real-world problems in industry,
+  research, and education.
 show_downloads: false
 
 github:
